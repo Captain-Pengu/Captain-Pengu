@@ -1,33 +1,33 @@
-# 🐧 Çağrı Sarı | Pengu
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Low-Level+Düşünür;Firmware+Geliştirici;Sistem+Kontrolcüsü;Network+Analizcisi" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Çağrı+Sarı+|+Pengu;Low-Level+Düşünür+%26+Firmware+Geliştirici;Sistem+Kontrolcüsü+%26+Network+Analizcisi" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Odak-Low%20Level-black?style=for-the-badge&logo=linux">
   <img src="https://img.shields.io/badge/Zihniyet-Kontrol-red?style=for-the-badge&logo=hackaday">
   <img src="https://img.shields.io/badge/Mod-Mühendislik-blue?style=for-the-badge&logo=codeforces">
+  <img src="https://img.shields.io/badge/XP+Level-Over9000-purple?style=for-the-badge&logo=gamejolt">
 </p>
 
-<hr>
+<hr style="border: 1px solid #00F7FF;">
 
-<h2>⚡ SİSTEM</h2>
+<h2 align="center">⚡ SİSTEM HACK</h2>
 
-<pre>
+<pre style="background:#0d1117; color:#00F7FF; padding:15px; border-radius:10px; overflow-x:auto;">
 if (system.limits_you) {
     bypass();
     rebuild();
+    execute("pengu_mode");
 }
 </pre>
 
-<h3>🧰 TEKNOLOJİLER</h3>
+<h3 align="center">🧰 TEKNOLOJİLER</h3>
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,php,linux,windows,git,github,vscode" /><br>
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake,docker" /> 
 </p>
 
-<h3>🧪 ARAÇLAR</h3>
+<h3 align="center">🧪 ARAÇLAR & HACK GEAR</h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/Buildroot-000000?style=for-the-badge&logo=linux"> 
   <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu"> 
@@ -37,7 +37,7 @@ if (system.limits_you) {
   <img src="https://img.shields.io/badge/Firmware-black?style=for-the-badge"> 
 </p>
 
-<h3>🧠 ODAK</h3>
+<h3 align="center">🧠 ODAK ALANLARI</h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/Firmware%20Recovery-darkgreen?style=for-the-badge"> 
   <img src="https://img.shields.io/badge/Embedded%20Systems-black?style=for-the-badge"> 
@@ -45,7 +45,7 @@ if (system.limits_you) {
   <img src="https://img.shields.io/badge/Anomaly%20Detection-red?style=for-the-badge"> 
 </p>
 
-<h3>⚙️ DONANIM</h3>
+<h3 align="center">⚙️ DONANIM</h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/PowerPC-P1020-orange?style=for-the-badge"> 
   <img src="https://img.shields.io/badge/ARM-STM32-blue?style=for-the-badge"> 
@@ -53,12 +53,19 @@ if (system.limits_you) {
   <img src="https://img.shields.io/badge/Ryzen%207-5800H-red?style=for-the-badge&logo=amd"> 
 </p>
 
-<h3>📊 İSTATİSTİKLER</h3>
+<h3 align="center">📊 İSTATİSTİKLER</h3>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=cagrisari&show_icons=true&theme=radical&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagrisari&layout=compact&theme=radical" />
 </p>
 
-<hr>
+<h3 align="center">📡 SOSYAL & TAKİP</h3>
+<p align="center">
+  <a href="https://github.com/cagrisari"><img src="https://img.shields.io/badge/GitHub-Pengu-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/cagrisari/"><img src="https://img.shields.io/badge/LinkedIn-Pengu-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://twitter.com/cagrisari"><img src="https://img.shields.io/badge/Twitter-Pengu-1DA1F2?style=for-the-badge&logo=twitter"></a>
+</p>
 
-<p>💬 Sohbet ve bilgi paylaşımı: Sistem odaklı, firmware, embedded ve network analiz konularında aktif.</p>
+<hr style="border: 1px solid #00F7FF;">
+
+<p align="center">💬 Sistem odaklı, firmware ve embedded hacking ile network analiz konularında aktif. #PenguStyle</p>
