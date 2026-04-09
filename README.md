@@ -1,82 +1,484 @@
-<!-- Pengu Ultimate Control Panel README - Adım 1 -->
+<!-- ============================================================ -->
+<!--           PENGU // ÇAĞRI SARI — GITHUB PROFILE README        -->
+<!--        Firmware Dev | Embedded | RE | NetSec | STM32H7        -->
+<!-- ============================================================ -->
 
-<div style="background:#0a0a0a; color:#0ff; font-family:JetBrains Mono, monospace; border-radius:25px; padding:20px; max-width:1200px; margin:auto;">
+<div align="center">
 
-  <!-- HEADER -->
-  <div style="background:linear-gradient(90deg,#00f,#0ff,#0f0); padding:30px; border-radius:20px; text-align:center; box-shadow:0 0 40px #0ff;">
-    <h1 style="font-size:46px; margin:0; color:#fff;">Çağrı Sarı | Pengu</h1>
-    <p style="margin:10px 0 0 0; font-size:20px; color:#fff;">Low-Level Architect & Firmware Commander</p>
-    <p>
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Firmware+Recovery;Embedded+Systems;Network+Control;Anomaly+Detection" />
-    </p>
-  </div>
+<!-- ░░░ ANIMATED CAPSULE HEADER ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=PENGU&fontSize=80&fontColor=00FF41&fontAlignY=38&animation=fadeIn&desc=Çağrı%20Sarı%20//%20Firmware%20Dev%20%7C%20Embedded%20%7C%20RE%20%7C%20NetSec&descSize=18&descAlignY=60&descColor=00BFFF" />
 
-  <!-- GRAFİKSEL MENÜ -->
-  <div style="display:flex; margin-top:25px; gap:15px; flex-wrap:wrap; justify-content:center;">
+<!-- ░░░ TYPING SVG — BOOT SEQUENCE ░░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=760&height=50&lines=%5BBOOT%5D+Initializing+Pengu+OS+v2.0.26...;%5BLOAD%5D+Firmware+Dev+%2F+STM32H7+%2F+Embedded+C;%5BLOAD%5D+Reverse+Engineering+%2F+Ghidra+%2F+JTAG;%5BLOAD%5D+Network+Ops+%2F+Wireshark+%2F+Bettercap;%5BOK%5D+All+systems+nominal.+Welcome+%F0%9F%90%A7" alt="Typing SVG" />
 
-    <div style="background:#0d1117; flex:1; min-width:220px; max-width:280px; padding:20px; border-radius:20px; box-shadow:0 0 25px #0ff; transition:0.3s; text-align:center;">
-      <h3 style="color:#00f;">CPU</h3>
-      <p>PowerPC P1020</p>
-      <p>Status: <span style="color:#0f0;">ACTIVE</span></p>
-    </div>
+<br/>
 
-    <div style="background:#0d1117; flex:1; min-width:220px; max-width:280px; padding:20px; border-radius:20px; box-shadow:0 0 25px #f00; transition:0.3s; text-align:center;">
-      <h3 style="color:#f00;">GPU</h3>
-      <p>NVIDIA RTX 3060</p>
-      <p>VRAM: 6GB</p>
-    </div>
+<!-- ░░░ STATUS BADGES ░░░ -->
+<img src="https://img.shields.io/badge/%F0%9F%90%A7_SPIRIT-PENGUEN-1a1a2e?style=for-the-badge&labelColor=000000&color=003366" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=001a00" />
+<img src="https://img.shields.io/badge/LOCATION-T%C3%BCrkiye-E30A17?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0a0000" />
+<img src="https://img.shields.io/badge/COFFEE-T%C3%BCrk_Kahvesi-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=1a0f00" />
 
-    <div style="background:#0d1117; flex:1; min-width:220px; max-width:280px; padding:20px; border-radius:20px; box-shadow:0 0 25px #ff0; transition:0.3s; text-align:center;">
-      <h3 style="color:#ff0;">ARM</h3>
-      <p>STM32H7</p>
-      <p>Status: OK</p>
-    </div>
+<br/><br/>
 
-    <div style="background:#0d1117; flex:1; min-width:220px; max-width:280px; padding:20px; border-radius:20px; box-shadow:0 0 25px #0f0; transition:0.3s; text-align:center;">
-      <h3 style="color:#0f0;">RAM</h3>
-      <p>16GB LPDDR4</p>
-      <p>Channels: Dual</p>
-    </div>
+<!-- ░░░ LIVE COUNTERS ░░░ -->
+<img src="https://komarev.com/ghpvc/?username=cagrisari&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&base=1337&abbreviated=true" />
+<img src="https://img.shields.io/github/followers/cagrisari?style=for-the-badge&color=00BFFF&label=FOLLOWERS&logo=github&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/github/stars/cagrisari?style=for-the-badge&color=FFD700&label=TOTAL+STARS&logo=github&logoColor=white&labelColor=0a0a0a&affiliations=OWNER" />
 
-  </div>
+</div>
 
-  <!-- ORTA PANEL - DASHBOARD -->
-  <div style="background:#010101; padding:25px; border-radius:25px; box-shadow:0 0 35px #0ff; margin-top:30px;">
-    <h3 style="text-align:center; color:#0ff;">SYSTEM DASHBOARD</h3>
-    <pre style="color:#0ff; background:#010101; border-radius:15px; padding:15px; overflow-x:auto; font-size:14px;">
-CPU Usage      : 38%
-GPU Usage      : 52%
-RAM Usage      : 66%
-Network Packets: 1.2M
-Latency        : 12ms
-Firmware Mode  : ACTIVE
-Uptime         : 45h 12m
-    </pre>
-  </div>
+---
 
-  <!-- ALT PANEL - TOOLS & SKILLS -->
-  <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:30px; justify-content:center;">
+```
+███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗    ██████╗  ██████╗  ██████╗ ████████╗
+██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║    ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝
+███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║    ██████╔╝██║   ██║██║   ██║   ██║   
+╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║    ██╔══██╗██║   ██║██║   ██║   ██║   
+███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║    ██████╔╝╚██████╔╝╚██████╔╝   ██║   
+╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝    ╚═╝   
+                                                                 // github.com/cagrisari
+```
 
-    <div style="background:linear-gradient(90deg,#00f,#0ff); padding:20px; border-radius:20px; flex:1; min-width:400px; max-width:500px; text-align:center; box-shadow:0 0 30px #0ff;">
-      <h3 style="color:#010101;">TECH STACK</h3>
-      <p><img src="https://skillicons.dev/icons?i=c,cpp,python,bash,php,linux,windows,git,github,vscode" /></p>
-      <p><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake,docker" /></p>
-    </div>
+---
 
-    <div style="background:linear-gradient(90deg,#f00,#ff0); padding:20px; border-radius:20px; flex:1; min-width:400px; max-width:500px; text-align:center; box-shadow:0 0 30px #ff0;">
-      <h3 style="color:#010101;">TOOLS & GEAR</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Buildroot-000000?style=for-the-badge&logo=linux">
-        <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu">
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark">
-        <img src="https://img.shields.io/badge/Ghidra-F44336?style=for-the-badge&logo=java">
-      </p>
-    </div>
+## `> whoami`
 
-  </div>
+```c
+/* ================================================================
+ * pengu.h — Developer Profile Header
+ * Author : Çağrı Sarı (nick: Pengu)
+ * Target : github.com/cagrisari
+ * Build  : v2.0.26 | April 2026
+ * ================================================================ */
 
-  <p style="text-align:center; margin-top:25px; font-size:16px; font-weight:bold;">
-💬 Adım 1: Grafiksel menü ve temel sistem panelleri hazır. <span style="color:#0f0;">Adım 2: Firmware, Network, Mission Log, Social ve Animasyonlar eklenecek.</span>
+#ifndef PENGU_H
+#define PENGU_H
+
+typedef struct {
+    const char  *name           = "Çağrı Sarı";
+    const char  *alias          = "Pengu";
+    const char  *spirit_animal  = "🐧 Penguen  /* ruhsal anlam taşıyor */";
+    const char  *location       = "Türkiye";
+    const char  *mission        = "Simple code. Deep systems. Clean mind.";
+
+    /* ---- Core Focus ---- */
+    const char  *primary[]      = { "Firmware Dev", "Embedded Systems", "STM32H7" };
+    const char  *secondary[]    = { "Reverse Engineering", "Network Analysis", "Low-Level Ops" };
+
+    /* ---- Traits ---- */
+    bool         simple_life    = true;
+    bool         deep_work      = true;
+    bool         overthink      = false;   // strictly disabled
+    bool         loves_complex  = false;   // allergic to unnecessary complexity
+
+    /* ---- Daily Stack ---- */
+    const char  *os             = "Windows + QEMU + Docker";
+    const char  *editor         = "VS Code";
+    const char  *coffee         = "Türk Kahvesi — sade, siyah";
+    float        gaming_h_day   = 1.0f;   // hard cap
+} Pengu_t;
+
+extern Pengu_t pengu;
+#endif /* PENGU_H */
+```
+
+---
+
+## `> lspci — Hardware`
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  ┌─ HOST ──────────────────────────────────────────────────────────┐ ║
+║  │  Lenovo IdeaPad Gaming 3                                        │ ║
+║  ├─ CPU ───────────────────────────────────────────────────────────┤ ║
+║  │  AMD Ryzen 7 5800H  ·  8C / 16T  ·  4.4 GHz Boost              │ ║
+║  ├─ GPU ───────────────────────────────────────────────────────────┤ ║
+║  │  NVIDIA RTX 3060  ·  6 GB VRAM  ·  90W TGP                     │ ║
+║  ├─ RAM ───────────────────────────────────────────────────────────┤ ║
+║  │  16 GB DDR4                                                     │ ║
+║  ├─ STORAGE ───────────────────────────────────────────────────────┤ ║
+║  │  SanDisk USB 3.2 Gen 2 SSD  (primary external drive)           │ ║
+║  │  SanDisk External SSD  (Samsung direct record)                  │ ║
+║  ├─ VM / DEV ENV ──────────────────────────────────────────────────┤ ║
+║  │  QEMU  ·  Docker  ·  Buildroot  ·  Multi-Arch Testing           │ ║
+║  │  Laptop screen → Desktop monitor passthrough mode               │ ║
+║  └─────────────────────────────────────────────────────────────────┘ ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `> cat /proc/skills`
+
+<div align="center">
+
+### ⚡ Firmware & Embedded
+<p>
+<img src="https://img.shields.io/badge/STM32H7-Cortex--M7_@_480MHz-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded_C-Expert-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/FreeRTOS-RTOS-1F9F3B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Buildroot-BSP_Builder-000000?style=for-the-badge&logo=linux&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/QEMU-Emulation-FF6600?style=for-the-badge&logo=qemu&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-Compatible-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/JTAG-Debugging-8B0000?style=for-the-badge&logoColor=white" />
 </p>
+
+### 💻 Languages
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Batch-000000?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+### 🛡️ Security & Analysis
+<p>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Ghidra-RE_Engine-FF0000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Bettercap-Network_Ops-00FF41?style=for-the-badge&logo=kalilinux&logoColor=black" />
+<img src="https://img.shields.io/badge/Reverse_Engineering-Active-FF6600?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Firmware_Recovery-Modding-8B0000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Anomaly_Detection-NetSec-003366?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
+
+### 🧰 Dev Tools
+<p>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+## `> ls -la /projects — Featured Repos`
+
+<!-- ░░░ LIVE REPO CARDS — github-readme-stats pin API ░░░ -->
+<!-- Bu kartlar GitHub API'den canlı veri çeker -->
+
+<div align="center">
+
+<a href="https://github.com/cagrisari/cagrisari">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cagrisari&repo=cagrisari&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00BFFF&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<br/>
+
+### 📁 Project Archive
+
+<details>
+<summary><b>🔬 [ACTIVE] STM32H7 — Advanced Embedded Development</b></summary>
+<br/>
+
+```c
+/* ================================================================
+ * Project  : STM32H7 Embedded Platform
+ * MCU      : STM32H750 / STM32H7B0 — Cortex-M7 @ 480 MHz
+ * Status   : ACTIVE DEVELOPMENT
+ * ================================================================ */
+#include "stm32h7xx_hal.h"
+#include "FreeRTOS.h"
+#include "task.h"
+
+/* Active work items:
+ * ✅  SPI / I2C / UART / DMA custom peripheral drivers
+ * ✅  FreeRTOS task scheduling & mutex handling
+ * 🔧  Custom bootloader design  (in progress)
+ * 🔧  Sensor fusion pipeline    (in progress)
+ * 📋  HAL → bare-metal migration (planned)
+ */
+void pengu_firmware_loop(void *pvParameters) {
+    for (;;) {
+        HAL_GPIO_TogglePin(LED_GPIO_Port, LED_Pin);
+        vTaskDelay(pdMS_TO_TICKS(500));
+    }
+}
+```
+</details>
+
+<details>
+<summary><b>👁️ [COMPLETED] Android Live Face Recognition System</b></summary>
+<br/>
+
+```kotlin
+/**
+ * Platform : Android Studio / Kotlin / CameraX + ML Kit
+ * Features :
+ *   ✅ Real-time face detection via camera
+ *   ✅ Distance-based face proximity calculation
+ *   ✅ View Binding architecture
+ *   ✅ Multi-face tracking
+ *   🔧 Next: distance-aware recognition + face ID
+ */
+val analysisUseCase = ImageAnalysis.Builder()
+    .setTargetResolution(Size(1280, 720))
+    .setBackpressureStrategy(STRATEGY_KEEP_ONLY_LATEST)
+    .build()
+// STATUS: PRODUCTION ✔
+```
+</details>
+
+<details>
+<summary><b>🛠️ [COMPLETED] PHP Personnel Management System</b></summary>
+<br/>
+
+```php
+<?php
+/**
+ * Stack  : PHP 8 + MySQL + HTML/CSS/JS
+ * Status : PRODUCTION ✅
+ * Panels : Admin + User
+ * Modules: Salary · Leave · Advance · To-do · Stats
+ */
+class PersonnelSystem {
+    public string $status  = "PRODUCTION";
+    public array  $modules = ["auth","salary","leave","advance","todo","stats"];
+}
+```
+</details>
+
+<details>
+<summary><b>📡 [COMPLETED] Firmware Recovery — EdgeCore EWS4502B (P1020 PowerPC)</b></summary>
+<br/>
+
+```bash
+# CPU     : Freescale P1020 (PowerPC e500v2)
+# Tools   : UART console · JTAG · cross-toolchain
+# Outcome : FULL RECOVERY + EXTENDED FIRMWARE ✔
+
+# Steps:
+# [1] Serial access via UART (115200 baud)
+# [2] U-Boot interrupt → custom bootargs
+# [3] Flash dump → reverse engineer partition table
+# [4] Rebuild rootfs with Buildroot (PPC target)
+# [5] TFTP flash + bootm → system alive ✔
+
+echo "[PENGU] Low-level bypass complete. System restored."
+```
+</details>
+
+<details>
+<summary><b>🔍 [ACTIVE] Network Anomaly Detection Pipeline</b></summary>
+<br/>
+
+```python
+# Tools  : Wireshark · Bettercap · Scapy · Python
+# Goal   : Real HTTP inspection + behavioral anomaly detection
+
+ANOMALY_RULES = {
+    "arp_spoofing"  : "ARP reply without request",
+    "dns_tunneling" : "DNS payload > 512 bytes",
+    "http_anomaly"  : "Unexpected HTTP method or status",
+    "port_scan"     : "SYN flood to multiple ports",
+}
+# STATUS: RESEARCH + ACTIVE DEVELOPMENT
+```
+</details>
+
+---
+
+## `> github-stats — Live Data Feed`
+
+<div align="center">
+
+<!-- STATS CARD -->
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=cagrisari&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00BFFF&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+
+<!-- TOP LANGUAGES CARD -->
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagrisari&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=c9d1d9&card_width=400" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- STREAK CARD -->
+<img src="https://streak-stats.demolab.com?user=cagrisari&theme=matrix&hide_border=true&background=0D0D0D&ring=00FF41&fire=00BFFF&currStreakLabel=00FF41&sideLabels=00BFFF&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+---
+
+## `> trophy --all — Achievement Board`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cagrisari&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+
+</div>
+
+---
+
+## `> git log --graph — Contribution Activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cagrisari&bg_color=0d0d0d&color=00FF41&line=00BFFF&point=ffffff&area=true&area_color=00FF4115&hide_border=true&custom_title=Pengu%20//%20Contribution%20Graph%20%5BLIVE%5D&font_color=00FF41" />
+
+</div>
+
+---
+
+## `> contribution-snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cagrisari/cagrisari/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cagrisari/cagrisari/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/cagrisari/cagrisari/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## `> traceroute pengu.sys — System Map`
+
+```
+PENGU SYSTEM ARCHITECTURE
+══════════════════════════════════════════════════════════════════════
+                                                                      
+  [L1 — SILICON LAYER]                                                
+  ┌──────────────────────────────────────────────────────────────┐   
+  │  STM32H7 @ 480MHz  │  P1020 PowerPC e500v2  │  Ryzen 7 5800H │   
+  └──────────────────────────────────────────────────────────────┘   
+                                │                                     
+  [L2 — FIRMWARE LAYER]         ▼                                     
+  ┌──────────────────────────────────────────────────────────────┐   
+  │  Embedded C  ·  HAL / FreeRTOS  ·  Buildroot BSP             │   
+  │  Custom Bootloader  ·  DMA Drivers  ·  Bare-metal             │   
+  └──────────────────────────────────────────────────────────────┘   
+                                │                                     
+  [L3 — SECURITY / RE LAYER]    ▼                                     
+  ┌──────────────────────────────────────────────────────────────┐   
+  │  Ghidra RE  ·  JTAG Debug  ·  Firmware Dump & Rebuild        │   
+  │  Wireshark  ·  Bettercap   ·  Anomaly Detection Engine       │   
+  └──────────────────────────────────────────────────────────────┘   
+                                │                                     
+  [L4 — APPLICATION LAYER]      ▼                                     
+  ┌──────────────────────────────────────────────────────────────┐   
+  │  Python / C# / Kotlin  ·  PHP Backend  ·  Android SDK        │   
+  │  Face Recognition  ·  Personnel Mgmt  ·  Network Tools       │   
+  └──────────────────────────────────────────────────────────────┘   
+                                │                                     
+                                ▼                                     
+                         🐧  PENGU CORE                               
+                  "Simple living. Deep engineering."                  
+══════════════════════════════════════════════════════════════════════
+```
+
+---
+
+## `> targets.sh — 2026 Goals`
+
+```bash
+#!/bin/bash
+declare -A GOALS=(
+    ["STM32H7"]      ="Advanced real-time firmware projects"
+    ["Bootloader"]   ="Custom secure bootloader design"
+    ["Face_Recog"]   ="Distance-aware multi-face tracking"
+    ["Net_Anomaly"]  ="Production-ready anomaly detection engine"
+    ["RE_Advanced"]  ="Ghidra + binary patching mastery"
+    ["Linux_BSP"]    ="Full custom embedded Linux with Buildroot"
+)
+
+echo "=== ACTIVE 2026 TARGETS ==="
+for key in "${!GOALS[@]}"; do
+    printf "  [→]  %-15s : %s\n" "$key" "${GOALS[$key]}"
+done
+
+echo ""
+echo "[PENGU] Simple life. Deep work. Clean mind. 🐧"
+```
+
+---
+
+## `> connect — Social`
+
+<div align="center">
+
+<a href="https://github.com/cagrisari">
+  <img src="https://img.shields.io/badge/GitHub-cagrisari-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/cagrisari">
+  <img src="https://img.shields.io/badge/LinkedIn-cagrisari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
+</a>
+&nbsp;
+<a href="https://twitter.com/cagrisari">
+  <img src="https://img.shields.io/badge/Twitter-@cagrisari-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a0a0a" />
+</a>
+
+</div>
+
+---
+
+<!-- ░░░ SNAKE SETUP INSTRUCTIONS ░░░ -->
+<details>
+<summary><b>⚙️ Snake Animasyonu Kurulum — GitHub Actions</b></summary>
+<br/>
+
+**`.github/workflows/snake.yml`** dosyasını oluştur:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+> ⚡ **Önemli:** Settings → Actions → General → **Read and Write Permissions** seçili olmalı!
+> Sonra Actions sekmesinden "Run workflow" ile manuel çalıştır.
+
+</details>
+
+---
+
+<!-- ░░░ FOOTER ░░░ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003300,100:000000&height=120&section=footer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=5000&pause=3000&color=00FF4166&center=true&vCenter=true&width=700&lines=%F0%9F%90%A7+Pengu+%E2%80%94+Firmware+%7C+RE+%7C+NetSec+%7C+STM32H7;Simple+Living.+Deep+Engineering.+Clean+Mind." />
 
 </div>
