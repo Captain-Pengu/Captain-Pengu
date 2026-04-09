@@ -1,12 +1,12 @@
 <!-- ============================================================ -->
-<!--           PENGU // ÇAĞRI SARI — GITHUB PROFILE README        -->
+<!--           PENGU // ÇAĞRI SARIHANOĞLU — GITHUB PROFILE README        -->
 <!--        Firmware Dev | Embedded | RE | NetSec | STM32H7        -->
 <!-- ============================================================ -->
 
 <div align="center">
 
 <!-- ░░░ ANIMATED CAPSULE HEADER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=PENGU&fontSize=80&fontColor=00FF41&fontAlignY=38&animation=fadeIn&desc=Çağrı%20Sarı%20//%20Firmware%20Dev%20%7C%20Embedded%20%7C%20RE%20%7C%20NetSec&descSize=18&descAlignY=60&descColor=00BFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=PENGU&fontSize=80&fontColor=00FF41&fontAlignY=38&animation=fadeIn&desc=Çağrı%20Sarıhanoğlu%20//%20Firmware%20Dev%20%7C%20Embedded%20%7C%20RE%20%7C%20NetSec&descSize=18&descAlignY=60&descColor=00BFFF" />
 
 <!-- ░░░ TYPING SVG — BOOT SEQUENCE ░░░ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=760&height=50&lines=%5BBOOT%5D+Initializing+Pengu+OS+v2.0.26...;%5BLOAD%5D+Firmware+Dev+%2F+STM32H7+%2F+Embedded+C;%5BLOAD%5D+Reverse+Engineering+%2F+Ghidra+%2F+JTAG;%5BLOAD%5D+Network+Ops+%2F+Wireshark+%2F+Bettercap;%5BOK%5D+All+systems+nominal.+Welcome+%F0%9F%90%A7" alt="Typing SVG" />
